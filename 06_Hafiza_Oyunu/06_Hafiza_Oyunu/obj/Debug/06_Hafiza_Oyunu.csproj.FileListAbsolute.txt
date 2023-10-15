@@ -1,0 +1,9 @@
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\06_Hafiza_Oyunu\06_Hafiza_Oyunu\bin\Debug\06_Hafiza_Oyunu.exe.config
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\06_Hafiza_Oyunu\06_Hafiza_Oyunu\bin\Debug\06_Hafiza_Oyunu.exe
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\06_Hafiza_Oyunu\06_Hafiza_Oyunu\bin\Debug\06_Hafiza_Oyunu.pdb
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\06_Hafiza_Oyunu\06_Hafiza_Oyunu\obj\Debug\06_Hafiza_Oyunu.csprojResolveAssemblyReference.cache
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\06_Hafiza_Oyunu\06_Hafiza_Oyunu\obj\Debug\_06_Hafiza_Oyunu.Form1.resources
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\06_Hafiza_Oyunu\06_Hafiza_Oyunu\obj\Debug\_06_Hafiza_Oyunu.Properties.Resources.resources
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\06_Hafiza_Oyunu\06_Hafiza_Oyunu\obj\Debug\06_Hafiza_Oyunu.csproj.GenerateResource.Cache
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\06_Hafiza_Oyunu\06_Hafiza_Oyunu\obj\Debug\06_Hafiza_Oyunu.exe
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\06_Hafiza_Oyunu\06_Hafiza_Oyunu\obj\Debug\06_Hafiza_Oyunu.pdb
